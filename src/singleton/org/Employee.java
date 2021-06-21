@@ -30,19 +30,21 @@ public class Employee {
 		System.out.println(obj);
 		obj.empId();
 		
-		Employee obj=getInstance();
+		Employee obj1=getInstance();
 		System.out.println(obj);
 		obj.empId();
 		
-		Employee obj=getInstance();
+		Employee obj2=getInstance();
 		System.out.println(obj);
 		obj.empId();
 		
-		Employee obj=getInstance();
+		Employee obj3=getInstance();
 		System.out.println(obj);
 		obj.empId();
 		
-		
+		Employee obj4=getInstance();
+		System.out.println(obj);
+		obj.empId();
 	}
 		
 		
