@@ -29,6 +29,20 @@ public class Employee {
 		Employee obj=getInstance();
 		System.out.println(obj);
 		obj.empId();
+		
+		Employee obj=getInstance();
+		System.out.println(obj);
+		obj.empId();
+		
+		Employee obj=getInstance();
+		System.out.println(obj);
+		obj.empId();
+		
+		Employee obj=getInstance();
+		System.out.println(obj);
+		obj.empId();
+		
+		
 	}
 		
 		
